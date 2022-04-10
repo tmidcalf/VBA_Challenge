@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# VBA Refactoring
 
 ## Overview of Project
 
