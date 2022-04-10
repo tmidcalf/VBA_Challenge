@@ -31,5 +31,4 @@ Similarly with the 2017 analysis, we see in the two screenshots posted below tha
 
 - One of the advantages of refactoring code is that, in most cases, it would speed up the program and possibly allow the program to be run on larger datasets. It also creates code that is less complex, making it more easily read and understood for people to reading or using the code in the future. Although, going line by line refactoring code to run more efficiently also takes much time and if there are deadlines to meet you might run out of time or resources to complete the refactored program.
 
-- 
- 
+- When looking at our VBA script, the refactoring process definitely made the program run much more efficiently. We could use this script and apply it to a much larger dataset with many more stocks to analyze and the program would not have problems quickly working through all the data, where the previous code would take much longer. However, the previous script performed the same actions as the refactored script and was much quicker and more intuitive to create.
